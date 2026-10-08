@@ -1,0 +1,9 @@
+streamlit>=1.40
+numpy
+pandas
+scikit-learn
+imbalanced-learn
+joblib
+pillow
+matplotlib
+tensorflow-cpu
