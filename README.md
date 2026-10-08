@@ -1,4 +1,4 @@
-# AI Internship Project Demos
+# AI Internship Codec
 
 This repository contains two Streamlit demos built for an AI internship project:
 
